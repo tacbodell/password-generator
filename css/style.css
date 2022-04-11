@@ -1,0 +1,56 @@
+/* Box Model Hack */
+* {
+     box-sizing: border-box;
+}
+
+/* Clear fix hack */
+.clearfix:after {
+     content: ".";
+     display: block;
+     clear: both;
+     visibility: hidden;
+     line-height: 0;
+     height: 0;
+}
+
+.clear {
+	clear: both;
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+body {
+     background: rgb(29, 29, 29);
+}
+input {
+     display: block;
+     margin: 0 auto;
+}
+#result {
+     font-weight: bold;
+}
+.container {
+     color: white;
+     font-family: 'roboto', sans-serif;
+     width: 80%;
+     text-align: center;
+     margin: 01rem auto;
+}
+.container > * {
+     margin-top: 1rem;
+}
+.disclaimer {
+     position: fixed;
+     bottom: 0;
+     left: 50%;
+     transform: translate(-50%, -2rem);
+}
+/******************************************
+/* LAYOUT
+/*******************************************/
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
