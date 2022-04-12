@@ -1,4 +1,4 @@
-# password-generator
+# passwordify
 A random password generator with customization options for different levels of complexity.
 
 I intend to take this project further along once I learn some back-end skills. The goal is to give users the ability to
