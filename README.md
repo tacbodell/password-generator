@@ -22,6 +22,7 @@ This project was my first attempt at managing user login systems and integration
 
 ## Examples:
 Take a look at these other projects in my portfolio:
+
 **Portfolio** https://github.com/tacbodell/PortfolioSite
 
 **NightLights Society Image Gallery** https://github.com/tacbodell/nightlights
