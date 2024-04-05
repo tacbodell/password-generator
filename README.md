@@ -20,8 +20,7 @@ While this project is serviceable and may be used for sites that do not hold sen
 
 This project was my first attempt at managing user login systems and integration of API's. Work should be done to ensure that services that involve password management should be kept as secure as possible, as they may be difficult to market if this is not easily provable.
 
-## Examples:
-Take a look at these other projects in my portfolio:
+## Other Projects:
 
 **Portfolio** https://github.com/tacbodell/PortfolioSite
 
